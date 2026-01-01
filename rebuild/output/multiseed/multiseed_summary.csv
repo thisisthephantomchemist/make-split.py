@@ -1,0 +1,2 @@
+n_seeds,roc_auc(mean±std),macro_f1(mean±std),balanced_acc(mean±std),FP_plus_FN(mean±std),adversarial_auc(mean±std),thr(mean±std)
+10,0.8346 ± 0.0192,0.7339 ± 0.0279,0.7292 ± 0.0289,53.4000 ± 5.4201,0.4939 ± 0.0311,0.4856 ± 0.0353

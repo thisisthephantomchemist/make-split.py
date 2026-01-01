@@ -1,0 +1,2 @@
+model,best_k_features,CV ROC-AUC (OOF),CV F1@0.5 (OOF),CV Best-F1 (OOF),Chosen threshold (CV),TEST ROC-AUC,TEST F1@0.5,TEST F1@CV-threshold,best_params
+RFA + Tuned RF,70,0.8065570728405977,0.8032056990204809,0.8115449915110357,0.44333333333333336,0.815058986814712,0.8093645484949833,0.8025889967637541,"{'rf__n_estimators': 400, 'rf__min_samples_split': 5, 'rf__min_samples_leaf': 2, 'rf__max_features': 'sqrt', 'rf__max_depth': 32, 'rf__class_weight': None}"

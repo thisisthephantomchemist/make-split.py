@@ -1,0 +1,2 @@
+model,policy,chosen_threshold,train_oof_roc_auc,test_roc_auc,test_f1,TN,FP,FN,TP,FP_plus_FN
+ExtraTrees,min(FP+FN) on TRAIN-OOF,0.534,0.8175246422372859,0.8392609299097848,0.8280701754385965,52,36,13,118,49

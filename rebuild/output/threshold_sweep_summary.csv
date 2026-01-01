@@ -1,0 +1,4 @@
+model,train_oof_auc,best_thr_min_fp_fn,train_oof_FP_at_bestA,train_oof_FN_at_bestA,best_thr_minimax,train_oof_score_minimax(maxFPRFNR)
+Tuned RF,0.8065570728405977,0.506,143,74,0.6,0.28160919540229884
+ExtraTrees,0.8175246422372859,0.534,117,96,0.578,0.2621082621082621
+HistGB,0.7951719771643143,0.41200000000000003,151,75,0.714,0.2777777777777778

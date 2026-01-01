@@ -1,0 +1,4 @@
+model,train_oof_auc,thr_0.5,thr_min_fp_fn,train_oof_FP_min_fp_fn,train_oof_FN_min_fp_fn,thr_minimax,train_oof_score_minimax(maxFPRFNR),thr_constrained_FPmin_given_FNcap,train_oof_FP_constrained,train_oof_FN_constrained,constrained_feasible
+Tuned RF,0.8065570728405977,0.5,0.506,143,74,0.6,0.28160919540229884,0.292,267,10,True
+ExtraTrees,0.8175246422372859,0.5,0.534,117,96,0.578,0.2621082621082621,0.272,238,10,True
+HistGB,0.7951719771643143,0.5,0.41200000000000003,151,75,0.714,0.2777777777777778,0.058,263,9,True
